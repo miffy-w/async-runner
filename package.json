@@ -4,8 +4,8 @@
 	"author": "miffy",
 	"private": false,
 	"license": "MIT",
-	"homepage": "https://github.com/miffy-w/web-log",
-	"repository": "https://github.com/miffy-w/web-log",
+	"homepage": "https://github.com/miffy-w/async-runner",
+	"repository": "https://github.com/miffy-w/async-runner",
 	"types": "./build/index.d.ts",
 	"files": [
 		"./build"
@@ -23,7 +23,6 @@
 	"keywords": [
 		"async",
 		"clock",
-		"loop runner",
 		"loop runner"
 	],
 	"publishConfig": {
